@@ -14,6 +14,8 @@
 
 ## Exercício 1
 
+[Voltar ao Topo](#índice)
+
 ### Enunciado:
 
 Construa um programa que:
@@ -45,6 +47,8 @@ console.log(`O resto da divisão por dois é: ${restoDaDivisaoPorDois}`);
 ```
 
 ## Exercício 2
+
+[Voltar ao Topo](#índice)
 
 ### Enunciado:
 
@@ -98,6 +102,8 @@ console.log(
 ```
 
 ## Exercício 3
+
+[Voltar ao Topo](#índice)
 
 ### Enunciado:
 
